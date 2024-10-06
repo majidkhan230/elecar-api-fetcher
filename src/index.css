@@ -1,0 +1,9 @@
+@font-face {
+    font-family: font;
+    src: url("/assets/fonts/font.ttf");
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
